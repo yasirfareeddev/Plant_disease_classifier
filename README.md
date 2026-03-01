@@ -192,7 +192,7 @@ scipy>=1.11.0
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/plant-disease-prediction-cnn-deep-leanring-project.git
+git clone https://github.com/yasirfareeddev/Plant_disease_classifier.git
 cd plant-disease-prediction-cnn-deep-leanring-project
 ```
 
@@ -356,9 +356,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Built by:** Yasir Fareed
 
-**Project Link:** [https://github.com/YOUR_USERNAME/plant-disease-prediction-cnn-deep-leanring-project](https://github.com/YOUR_USERNAME/plant-disease-prediction-cnn-deep-leanring-project)
+**Project Link:** https://github.com/yasirfareeddev/Plant_disease_classifier
 
-**Email:** your.email@example.com
 
 ---
 
